@@ -1,0 +1,8 @@
+MOVIE,1,Inception,148,Action,5,4,5
+SERIES,2,Breaking Bad,50,Drama
+EPISODE,Pilot,1,5,4
+EPISODE,Cat's in the Bag...,1,5,5
+MOVIE,3,The Matrix,136,Sci-Fi,5,5,4,4
+SERIES,4,Friends,22,Comedy
+EPISODE,The One Where It All Began,1,5,5
+EPISODE,The One with the Sonogram,1,4,4

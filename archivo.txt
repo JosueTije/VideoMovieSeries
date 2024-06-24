@@ -1,0 +1,11 @@
+pelicula,1,The Shawshank Redemption,142,drama,5
+pelicula,2,The Godfather,175,drama,4.8
+pelicula,3,The Dark Knight,152,action,4.9
+serie,4,Breaking Bad,50,drama,0
+episodio,4,1,Pilot,1,5
+episodio,4,2,Cat's in the Bag...,1,4.7
+episodio,4,3,And the Bag's in the River,1,4.8
+serie,5,Friends,22,comedy,0
+episodio,5,1,The One Where Monica Gets a Roommate,1,4.5
+episodio,5,2,The One with the Sonogram at the End,1,4.4
+episodio,5,3,The One with the Thumb,1,4.6
